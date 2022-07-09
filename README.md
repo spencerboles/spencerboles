@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spencerboles
-- 👀 I’m interested in Data Science and Microservice Architecture
-- 🌱 I’m currently learning Django
+- 👀 I’m interested in Data Science and Business Intelligence
+- 🌱 I’m currently learning Python
 
 <!---
 spencerboles/spencerboles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
